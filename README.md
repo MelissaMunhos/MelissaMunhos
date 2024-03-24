@@ -17,7 +17,7 @@
 
 <div align="center"> 
 <a href="https://www.instagram.com/melmunhozst_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=black"</a>
-<a href = "mailto:melissamunhossantina@h.com"> <img src="https://img.shields.io/badge/-Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
+<a href = "mailto:melissamunhossantina@h.com"> <img src="https://img.shields.io/badge/-Hotmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
 
 
 
